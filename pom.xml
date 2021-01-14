@@ -55,7 +55,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.13</version>
+            <version>3.17</version>
         </dependency>
 
         <!-- 支持 Word 文档的操作 -->
